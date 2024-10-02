@@ -6,7 +6,7 @@
 
 [Домашнее задание к занятию "8. EventSource, Websockets"](https://github.com/netology-code/ahj-homeworks/tree/AHJ-50/sse-ws#чат)
 
-Вторая часть проекта: [Чат (Backend)](https://github.com/sirpen9uin/ahj_sse_ws_chat_front)
+Вторая часть проекта: [Чат (Backend)](https://github.com/sirpen9uin/ahj_sse_ws_chat)
 
 ## Развертывание
 
